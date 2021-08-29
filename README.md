@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @carlosgl93
+- 👀 I’m a self taught full stack developer
+- 🌱 I’m currently learning Flutter - AWS - ExpressJs
+- 📫 Reach me at cgumucio93@gmail.com
